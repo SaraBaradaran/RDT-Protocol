@@ -1,3 +1,14 @@
+#################################################################   
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jan 2020 				
+# 	Module Name:    raw_socket.py 				
+# 	Project Name:   Reliable-Data-Transfer-Protocol 	
+#								
+#								
+#################################################################
+
 #! /usr/bin/python
 
 from __future__ import print_function

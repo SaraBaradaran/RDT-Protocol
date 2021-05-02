@@ -1,3 +1,14 @@
+#################################################################   
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jan 2020 				
+# 	Module Name:    packing.py 				
+# 	Project Name:   Reliable-Data-Transfer-Protocol 	
+#								
+#								
+#################################################################
+
 #!/usr/bin/python
 
 import socket,sys,struct,os

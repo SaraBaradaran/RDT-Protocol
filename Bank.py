@@ -2,7 +2,7 @@
 #								
 # 								
 # 	Creator Name:   Sara Baradaran, Mahdi Heidari		
-# 	Create Date:    Jun 2020 				
+# 	Create Date:    Jan 2020 				
 # 	Module Name:    Bank.py 				
 # 	Project Name:   Reliable-Data-Transfer-Protocol 	
 #								
