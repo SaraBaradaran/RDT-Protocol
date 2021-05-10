@@ -9,8 +9,9 @@ You can read more about how this transportation system works by reading the proj
 
 ### Requirements
 * Python 3.4+
+* Konsole (Konsole is a terminal emulator built on the KDE Platform). See [konsole_installation_guide](https://www.howtoinstall.me/ubuntu/18-04/konsole/)
 
-### Step 1: Download Python Code & Files
+### Step 1: Download Python Codes & Text Files
 You can clone codes using the below command:
 ```
 git clone https://github.com/SaraBaradaran/RDT-Protocol
