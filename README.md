@@ -15,4 +15,4 @@ You can clone codes using the below command:
 ```
 git clone https://github.com/klee/SaraBaradaran/RDT-Protocol
 ```
-You may have to change wlp3s0 in ./script file according to your network interface. You can get your interface using ifconfig command.
+You may have to modify ``wlp3s0 in`` the `./script.sh` file according to your network interface. You can get your network interface using `ifconfig` command.
