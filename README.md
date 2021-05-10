@@ -11,7 +11,7 @@ You can read more about how this transportation system works by reading the proj
 * Python 3.4+
 
 ### Step 1: Download Python Files
-you can clone codes using below command:
+You can clone codes using the below command:
 ```
 git clone https://github.com/klee/SaraBaradaran/RDT-Protocol
 ```
