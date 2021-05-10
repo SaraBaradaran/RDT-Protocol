@@ -14,5 +14,9 @@ You can read more about how this transportation system works by reading the proj
 You can clone codes using the below command:
 ```
 git clone https://github.com/klee/SaraBaradaran/RDT-Protocol
+cd RDT-Protocol
+cp ./files ./
 ```
 You may have to modify ``wlp3s0`` in the `./script.sh` file according to your network interface. You can get your network interface using `ifconfig` command.
+
+Finally, run `./script.sh` 
