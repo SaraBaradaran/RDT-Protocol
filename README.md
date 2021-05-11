@@ -2,7 +2,7 @@
 
 
 We have implemented a reliable data transfer protocol like TCP using raw socket. This protocol has been used in a hypothetical transportation system.
-You can get more information about how this transportation system works by reading the ``Tranproject_Sytem_Project.pdf`` and ``Tranproject_Sytem_Demo.pdf`` files.
+You can get more information about how this transportation system works by reading the ``Transportation_Sytem_Project.pdf`` and ``Transportation_Sytem_Demo.pdf`` files.
 
 
 ## Usage guide
